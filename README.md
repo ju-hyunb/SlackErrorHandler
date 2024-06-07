@@ -1,7 +1,7 @@
 # SlackErrorHandler
 Error Handling Using Slack
 
-## 1. set config file
+### 1. set config file
 To be managed Slack bots information (name, token)
 
 _slack.config.json_
@@ -20,7 +20,7 @@ _slack.config.json_
 ```
 
 ---
-## 2. Python File to handle error
+### 2. Python File to handle error
 
 ```
 from SendMessageSlack import SlackAlertError
@@ -55,7 +55,7 @@ def raiseerror():
 
 ```
 ---
-## 3. Example
+### 3. Example
 
 ![스크린샷 2024-06-07 170447](https://github.com/ju-hyunb/SlackErrorHandler/assets/104177526/ed6cf4d1-2c23-417c-a956-5880b2f811a4)
 
