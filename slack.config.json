@@ -1,11 +1,11 @@
 {
     "bots": [{"bot_name": "LogBot",
-				"bot_token" : "your-slack-token1"},
-
-				{"bot_name": "VoteBot",
-				"bot_token" : "your-slack-token2"},
-
-				{"bot_name": "AlarmBot",
-				"bot_token" : "your-slack-token3"}
-			]
+		"bot_token" : "your-slack-token1"},
+	
+		{"bot_name": "VoteBot",
+		"bot_token" : "your-slack-token2"},
+	
+		{"bot_name": "AlarmBot",
+		"bot_token" : "your-slack-token3"}
+	]
 }
